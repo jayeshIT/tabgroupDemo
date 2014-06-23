@@ -1,0 +1,6 @@
+"#win_gallery":
+{
+	bottom: 48,
+	o: "win_gallery",
+	backgroundColor: 'pink'
+}

@@ -1,0 +1,13 @@
+"#win_details":
+{
+	fullscreen: false,
+	o: "win_details",
+	backgroundColor: 'gray',
+	navBarHidden: true
+},
+"#close_btn":
+{
+	top: 50,
+	left: 10,
+	title: 'Close'
+}

@@ -1,0 +1,6 @@
+"#win_more":
+{
+	bottom: 48,
+	o: "win_more",
+	backgroundColor: 'white'
+}

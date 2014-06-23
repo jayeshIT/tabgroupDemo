@@ -1,0 +1,6 @@
+"#win_home":
+{
+	bottom: 48,
+	o: "win_home",
+	backgroundColor: 'teal'
+}

@@ -1,0 +1,6 @@
+"#win_setting":
+{
+	bottom: 48,
+	o: "win_setting",
+	backgroundColor: 'red'
+}

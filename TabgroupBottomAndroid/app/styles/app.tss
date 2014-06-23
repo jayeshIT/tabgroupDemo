@@ -1,0 +1,7 @@
+"Window[platform=android]":
+{
+	top: 0,
+	width: '100%',
+	backgroundImage: "/background.png",
+	orientationModes: [Titanium.UI.PORTRAIT]
+}

@@ -1,0 +1,6 @@
+"#win_fav":
+{
+	bottom: 48,
+	o: "win_fav",
+	backgroundColor: 'yellow'
+}

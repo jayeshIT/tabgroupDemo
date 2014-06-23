@@ -1,0 +1,5 @@
+<Alloy>
+	<Window id="win_details" class="win_details">
+		<Button id="close_btn" onClick="CloseWin"/>
+	</Window>
+</Alloy>
